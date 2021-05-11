@@ -30,4 +30,4 @@ let hello = 'hello';
 }
 ```
 
-Här har Johan varit! // Johan hemma
+Här har jag varit! // Sixten i molnet
